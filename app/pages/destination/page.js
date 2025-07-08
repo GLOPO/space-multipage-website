@@ -55,7 +55,7 @@ const Destination = () => {
           <div className="embla__container">
           <section className="embla__slide flex flex-col lg:flex-row items-center lg:items-end gap-5 lg:gap-0 justify-between w-[80%] mx-auto mt-6 lg:mt-16 pb-7 lg:pb-0">
               <div className="w-fit lg:w-[40%]">
-                <p className="font-extralight">01 PICK YOUR DESTINATIO</p>
+                <p className="font-extralight">01 PICK YOUR DESTINATION</p>
                 <p className="my-5">
                   MOON <br /> MARS <br /> EUROPA <br /> TITAN
                 </p>
