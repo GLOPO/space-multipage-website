@@ -57,7 +57,7 @@ const Crew = () => {
           <div className="embla__container">
           <section className="embla__slide flex flex-col lg:flex-row items-center lg:items-end gap-5 lg:gap-0 justify-between w-[80%] mx-auto mt-6">
           <div className="w-fit lg:w-[40%]">
-            <p className="font-extralight">02 MEET YOUR CREW</p>
+            <p className="font-extralight">02 MET YOUR CREW</p>
             <p className="text-3xl lg:text-8xl my-5 font-extralight">DOUGLAS HURLEY</p>
             <p>COMMANDER</p>
             <p className="text-sm text-gray-400 font-extralight">
